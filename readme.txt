@@ -5,4 +5,4 @@ Git tracks changes of file.
 
 Creating a new branch is quick AND simple.
 
-Bug git stash.
+Bug git stash more.
